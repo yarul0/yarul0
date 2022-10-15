@@ -2,8 +2,6 @@
 ## I'm Yaroslav Perederii, 🐞 Junior QA Engineer.
 My [Linkedin](https://www.linkedin.com/in/yaroslavperederii/) and [Resume](https://github.com/yarul0/Resume/blob/ae3e84d4780d50f9a2a6329c6bea31e78d1dc311/Yaroslav%20Perederii%20QA.pdf) can tell more about me.
 
-[Link to my Portfolio](https://github.com/yarul0/Portfolio).
-
 ##  Language and Tools
 
 ![Header](https://img.shields.io/badge/-Jira-lightgrey?style=for-the-badge&logo=jira&logoColor=136be1)
