@@ -12,7 +12,6 @@ My [Linkedin](https://www.linkedin.com/in/yaroslavperederii/) and [Resume](https
 ![Header](https://img.shields.io/badge/-Postman-lightgrey?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/-MySQL-lightgrey?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![Header](https://img.shields.io/badge/-DevTools-lightgrey?style=for-the-badge&logo=googlechrome&logoColor=yellow)
-![Header](https://img.shields.io/badge/TestRail-lightgrey?style=for-the-badge&logo=&logoColor=71b556)
 ![Header](https://img.shields.io/badge/Testlink-lightgrey?style=for-the-badge&logo=SQL&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Mantis-lightgrey?style=for-the-badge&logo=mantis&logoColor=8cc4d7)
 
