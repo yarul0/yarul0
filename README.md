@@ -21,6 +21,8 @@ My [Linkedin](https://www.linkedin.com/in/yaroslavperederii/) and [Resume](https
 
 - [Test-Suites and Test-Cases](https://github.com/yarul0/Test-cases)
 
+- [Test Summary Reports](https://github.com/yarul0/Test_Summary_Reports)
+
 - [Bug-Reports](https://github.com/yarul0/Bug-reports)
 
 - [SQL Queries](https://github.com/yarul0/SQL)
