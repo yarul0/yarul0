@@ -4,7 +4,7 @@ My [Linkedin](https://www.linkedin.com/in/yaroslavperederii/) and [Resume](https
 
 ## Roadmap
 
-[![roadmap.sh](https://roadmap.sh/card/wide/6659b53ab998f3b3c70d256e?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/6659b53ab998f3b3c70d256e?variant=dark&roadmaps=qa)](https://roadmap.sh)
 
 ##  Language and Tools
 
