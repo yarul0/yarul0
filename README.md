@@ -1,6 +1,7 @@
 ### Hi there 👋
 ## I'm Yaroslav Perederii, 🐞 Junior QA Engineer.
 My [Linkedin](https://www.linkedin.com/in/yaroslavperederii/) and [Resume](https://github.com/yarul0/Resume/blob/ae3e84d4780d50f9a2a6329c6bea31e78d1dc311/Yaroslav%20Perederii%20QA.pdf) can tell more about me.
+[![roadmap.sh](https://roadmap.sh/card/wide/6659b53ab998f3b3c70d256e?variant=dark)](https://roadmap.sh)
 
 ##  Language and Tools
 
